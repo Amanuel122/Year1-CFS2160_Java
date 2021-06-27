@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="CheckoutSystem.LoyaltyCard.LoginController">
+   <children>
+      <PasswordField fx:id="PasswordTF" layoutX="210.0" layoutY="200.0" />
+      <TextField fx:id="UsernameTF" layoutX="210.0" layoutY="159.0" />
+      <Button fx:id="LoginID" layoutX="259.0" layoutY="251.0" mnemonicParsing="false" onAction="#LoginBTN" text="Login" />
+      <Label layoutX="145.0" layoutY="204.0" text="Password:" />
+      <Label layoutX="145.0" layoutY="163.0" text="Username:" />
+      <Label layoutX="213.0" layoutY="56.0" text="Loyalty Login">
+         <font>
+            <Font name="Agency FB" size="34.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
