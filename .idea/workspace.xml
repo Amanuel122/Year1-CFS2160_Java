@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1dfb3eda-d045-49e9-9cdb-ac41108aa708" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CFS2160.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem (2).zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/CFS2160_2021_Assignment_2_Full_Program_Report.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/CardOnly/Cardcart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/CardOnly/LoadingScreen.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/CardOnly/LoadingScreenController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/CardOnly/Payment.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/CardOnly/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/CardOnly/checkout.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/CardOnly/checkoutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/CashOnly/Cash.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/CashOnly/CashController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/CashOnly/CheckoutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/CashOnly/CheckoutControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/CashOnly/ThankYOU.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/CashOnly/ThankYouPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/CashOnly/cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/CashOnly/checkout.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/CheckoutOptions.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/CheckoutOptionsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/Less8/Cash.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/Less8/CashController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/Less8/LoadingScreen.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/Less8/LoadingScreenController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/Less8/Payment.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/Less8/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/Less8/ThankYOU.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/Less8/ThankYouPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/Less8/cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/Less8/checkout.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/Less8/checkoutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/LoyaltyCard/CustomerDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/LoyaltyCard/Customers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/LoyaltyCard/LoadingScreen.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/LoyaltyCard/LoadingScreenController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/LoyaltyCard/Login.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/LoyaltyCard/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/LoyaltyCard/Payment.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/LoyaltyCard/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/LoyaltyCard/cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/LoyaltyCard/checkout.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/LoyaltyCard/checkoutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/Products.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckoutSystem/productList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DEMOS/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DEMOS/InputStage.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DEMOS/InputStageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DEMOS/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DEMOS/MainScene.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DEMOS/MainSceneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DEMOS/OutputStage.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DEMOS/OutputStageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DEMOS/SIMPLE/ChangedScene.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DEMOS/SIMPLE/ChangedSceneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DEMOS/SIMPLE/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DEMOS/SIMPLE/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DEMOS/SIMPLE/MainScene.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DEMOS/SIMPLE/PopUpStageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DEMOS/SIMPLE/popUpStage.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enig/Enigma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enig/Plugboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enig/Reflector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enig/Rotor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week13/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week13/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week13/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week13/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week13/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week13/Week13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week15/PhoneBook.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week15/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week15/PhoneBookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week15/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week16/BankAccount/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week16/BankAccount/CurrentAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week16/BankAccount/DepositAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week16/BankAccount/StudentAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week16/BankAccount/YoungSaverAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week16/BankAccount/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week16/ToDo/Diary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week16/ToDo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week16/ToDo/TNFexception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week16/ToDo/job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week17/MusicPlayer/MP4.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week17/MusicPlayer/MP4Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week17/MusicPlayer/MP4Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week17/staffList/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week17/staffList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week17/staffList/StaffList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week17/staffList/StaffListController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week17/staffList/staffList.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week18/BankWinheritance/Acounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week18/BankWinheritance/BankSummary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week18/BankWinheritance/Current.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week18/BankWinheritance/Deposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week18/BankWinheritance/details.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week18/BankWinheritance/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week18/BankWinheritance/youngSaver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week19/demo2/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week19/demo2/ShowTextPopUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week19/demo3/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week19/demo3/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week19/demo3/EnterDetailsPopUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week19/studentNew/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week19/studentNew/MainInterfaceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week19/studentNew/StudentList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week19/studentNew/StudentView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week19/studentNew/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week19/studentNew/mainInterface.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week19/studentNew/studentViewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week19/studentlist/ActiveInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week19/studentlist/MainDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week19/studentlist/addStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week19/studentlist/studentInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week19/trialInfo/AddCommentGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week19/trialInfo/ShowCommentsGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week19/trialInfo/StudentContactSystemMainGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week19/trialInfo/StudentList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week14/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week14/BankController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week14/bank.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week14/currency/Sweets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week14/currency/currency_converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week14/grade_table/Modules.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week14/grade_table/details.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week14/grade_table/table.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n9HAc3rYkD3Qcs4xj9Tq2uMTk4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="CheckoutSystem.CardOnly" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\berhe\IdeaProjects\CFS2160\src\CheckoutSystem\LoyaltyCard" />
+      <recent name="C:\Users\berhe\IdeaProjects\CFS2160\src\CheckoutSystem\Less8" />
+      <recent name="C:\Users\berhe\IdeaProjects\CFS2160\src\CheckoutSystem\CashOnly" />
+      <recent name="C:\Users\berhe\IdeaProjects\CFS2160\src\CheckoutSystem\CardOnly" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\berhe\IdeaProjects\CFS2160\src\Week15" />
+      <recent name="C:\Users\berhe\IdeaProjects\CFS2160\src" />
+      <recent name="C:\Users\berhe\IdeaProjects\CFS2160" />
+      <recent name="C:\Users\berhe\IdeaProjects\CFS2160\src\Week17\staffList" />
+      <recent name="C:\Users\berhe\IdeaProjects\CFS2160\src\Week17\Stafflist" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="CheckoutSystem.CashOnly" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="CheckoutSystem" />
+      <recent name="CheckoutSystem.LoyaltyCard" />
+      <recent name="CheckoutSystem.Less8" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Enigma (1)">
+    <configuration name="Calculator" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Week13.calculator" />
+      <module name="CFS2160" />
+      <selectedOptions>
+        <option name="environmentVariables" visible="false" />
+      </selectedOptions>
+      <option name="VM_PARAMETERS" value="$ModuleSdkPath$C:\Program Files\Java\javafx-sdk-11.0.2\lib --add-module=javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CashController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="CheckoutSystem.CashController" />
+      <module name="CFS2160" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;$PATH_TO_FX$&quot; --add-modules=javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CheckoutSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Enigma (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="NEWenig.Enigma" />
+      <module name="CFS2160" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;$PATH_TO_FX$&quot; --add-modules=javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NEWenig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Enigma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Enig.Enigma" />
+      <module name="CFS2160" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;$PATH_TO_FX$&quot; --add-modules=javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Enig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="CFS2160" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;$PATH_TO_FX$&quot; --add-modules=javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="CheckoutSystem.main" />
+      <module name="CFS2160" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;$PATH_TO_FX$&quot; --add-modules=javafx.controls,javafx.fxml --add-exports javafx.base/com.sun.javafx.collections=ALL-UNNAMED " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="CheckoutSystem.CardOnly.main" />
+      <module name="CFS2160" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;$PATH_TO_FX$&quot; --add-modules=javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CheckoutSystem.CardOnly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="productList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="CheckoutSystem.productList" />
+      <module name="CFS2160" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;$PATH_TO_FX$&quot; --add-modules=javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CheckoutSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CFS2160" type="JarApplication" singleton="false">
+      <option name="JAR_PATH" value="$PATH_TO_FX$/src.zip" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;$PATH_TO_FX$&quot; --add-modules=javafx.controls,javafx.fxml" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\berhe\IdeaProjects\CFS2160" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-11.0.9" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JarApplication">
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Calculator" />
+      <item itemvalue="Application.main" />
+      <item itemvalue="Application.CashController" />
+      <item itemvalue="Application.productList" />
+      <item itemvalue="Application.Enigma" />
+      <item itemvalue="Application.Enigma (1)" />
+      <item itemvalue="JAR Application.CFS2160" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Enigma (1)" />
+        <item itemvalue="Application.Enigma" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.productList" />
+        <item itemvalue="Application.CashController" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dfb3eda-d045-49e9-9cdb-ac41108aa708" name="Default Changelist" comment="" />
+      <created>1610795245448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610795245448</updated>
+      <workItem from="1610795246688" duration="18940000" />
+      <workItem from="1610971866573" duration="3952000" />
+      <workItem from="1611314417159" duration="1502000" />
+      <workItem from="1611497656463" duration="1017000" />
+      <workItem from="1611587391322" duration="7032000" />
+      <workItem from="1612014222102" duration="17957000" />
+      <workItem from="1612032396787" duration="31000" />
+      <workItem from="1612095180853" duration="23089000" />
+      <workItem from="1612274667245" duration="87000" />
+      <workItem from="1612275099452" duration="1040000" />
+      <workItem from="1612277619764" duration="596000" />
+      <workItem from="1612633388619" duration="14000" />
+      <workItem from="1612700035702" duration="993000" />
+      <workItem from="1612702838144" duration="98000" />
+      <workItem from="1612874583254" duration="25492000" />
+      <workItem from="1613142097010" duration="17205000" />
+      <workItem from="1613397717917" duration="613000" />
+      <workItem from="1613400678966" duration="9370000" />
+      <workItem from="1613556414696" duration="16966000" />
+      <workItem from="1613666464660" duration="27515000" />
+      <workItem from="1613738440718" duration="11428000" />
+      <workItem from="1614002305124" duration="10486000" />
+      <workItem from="1615213139095" duration="2934000" />
+      <workItem from="1615323868654" duration="6848000" />
+      <workItem from="1615331041185" duration="921000" />
+      <workItem from="1615476469434" duration="14564000" />
+      <workItem from="1615929233530" duration="9419000" />
+      <workItem from="1616424025799" duration="18110000" />
+      <workItem from="1617705285649" duration="2480000" />
+      <workItem from="1617878034217" duration="611000" />
+      <workItem from="1618240361120" duration="17293000" />
+      <workItem from="1618577085172" duration="36760000" />
+      <workItem from="1618754048334" duration="6758000" />
+      <workItem from="1618828450350" duration="23509000" />
+      <workItem from="1619001768468" duration="39010000" />
+      <workItem from="1619357120824" duration="28247000" />
+      <workItem from="1619455949280" duration="21945000" />
+      <workItem from="1620128636560" duration="24875000" />
+      <workItem from="1624821875116" duration="2356000" />
+      <workItem from="1636323153320" duration="1347000" />
+      <workItem from="1636382162273" duration="144000" />
+      <workItem from="1636382329317" duration="10000" />
+      <workItem from="1636416040289" duration="109000" />
+      <workItem from="1642259482738" duration="1479000" />
+      <workItem from="1642348642673" duration="1244000" />
+      <workItem from="1642362409905" duration="611000" />
+      <workItem from="1642633324310" duration="601000" />
+      <workItem from="1643715372029" duration="1285000" />
+      <workItem from="1646339312978" duration="1611000" />
+      <workItem from="1646764820981" duration="1898000" />
+      <workItem from="1646860799415" duration="1881000" />
+      <workItem from="1647276300425" duration="1516000" />
+      <workItem from="1647366304846" duration="12756000" />
+      <workItem from="1647622933324" duration="2015000" />
+      <workItem from="1649437110117" duration="1469000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

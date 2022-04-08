@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="CheckoutSystem.CashOnly.CashController">
+   <children>
+      <Label layoutX="173.0" layoutY="146.0" text="Please enter the amount you wish to pay:">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="228.0" layoutY="53.0" text="Cash Payment" textAlignment="CENTER">
+         <font>
+            <Font name="Agency FB" size="32.0" />
+         </font>
+      </Label>
+      <TextField fx:id="cashTF" layoutX="226.0" layoutY="187.0" promptText="Amount" />
+      <Button fx:id="FinishBTN" layoutX="259.0" layoutY="245.0" mnemonicParsing="false" onAction="#finishPay" text="Finish &amp; Pay" />
+   </children>
+</AnchorPane>

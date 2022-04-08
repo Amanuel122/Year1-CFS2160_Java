@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="CheckoutSystem.Less8.checkoutController">
+   <children>
+      <ListView fx:id="foodListV" layoutX="28.0" layoutY="14.0" prefHeight="200.0" prefWidth="200.0" />
+      <Button layoutX="64.0" layoutY="214.0" mnemonicParsing="false" onAction="#addTC" prefHeight="32.0" prefWidth="128.0" text="add" />
+      <ListView fx:id="cart" layoutX="364.0" layoutY="14.0" prefHeight="200.0" prefWidth="200.0" />
+      <Label layoutX="281.0" layoutY="264.0" prefHeight="22.0" prefWidth="39.0" text="total" />
+      <TextField fx:id="totalTF" layoutX="320.0" layoutY="262.0" />
+      <Button layoutX="403.0" layoutY="214.0" mnemonicParsing="false" onAction="#removeButton" prefHeight="32.0" prefWidth="138.0" text="remove" />
+      <TextField fx:id="productsearchTF" layoutX="25.0" layoutY="262.0" promptText="Product name" />
+      <Button layoutX="184.0" layoutY="259.0" mnemonicParsing="false" onAction="#Search" text="Search" />
+      <Button fx:id="PAY" layoutX="482.0" layoutY="259.0" mnemonicParsing="false" onAction="#GoToPAY" prefHeight="32.0" text="Finish and Pay" />
+      <Separator layoutX="12.0" layoutY="362.0" prefHeight="7.0" prefWidth="576.0" />
+   </children>
+</AnchorPane>
